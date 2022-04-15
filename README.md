@@ -1,2 +1,2 @@
 # DoggyCupid
-A basic bootstrap website for finding the perfect match for your dog.
+A basic bootstrap based website for finding the perfect match for your dog.
